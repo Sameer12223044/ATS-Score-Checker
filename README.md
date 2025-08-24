@@ -68,7 +68,7 @@ Live Link**=  https://cvglass.onrender.com/
 ## ⚙️ Setup Instructions
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/Suhail7985/ATS-SCORE-Checker.git
+git clone https://github.com/Sameer12223044/ATS-SCORE-Checker.git
 cd ATS-SCORE-Checker
 ```
 
@@ -80,7 +80,8 @@ npm install   # Install dependencies
 
 #### Create a `.env` file in the `backend` folder and add:
 ```sh
-MONGO_URI=your-mongodb-uri
+MONGO_URI=your-mongodb-urigit init
+
 PORT=3000
 ```
 
